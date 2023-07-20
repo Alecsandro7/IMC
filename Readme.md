@@ -7,3 +7,4 @@ o Índice de Massa Corporal, conhecido pela sigla IMC, é um cálculo simples qu
 ![Alt text](image.png)
 
 ## Para saber o seu imc, acesse o site abaixo
+https://imc-five-pi.vercel.app/
